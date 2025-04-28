@@ -17,5 +17,15 @@ AWS Cloud Quest is the first and only role-playing game designed to help you bui
 In this interactive experience, you collect gems and earn points by solving real-world challenges and building actual cloud solutions within a live AWS environment.
 
 
+.. note::
+
+   This project is under active development.
+
+Contents
+--------
+
+.. toctree::
+
+
 
 
