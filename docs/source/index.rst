@@ -1,4 +1,4 @@
-Welcome to AWS CLOUD PTACTITIONER An Interactive Role Playing  
+Welcome to AWS CLOUD PRACTITIONER An Interactive Role Playing  
 ===================================
 
 group 6
