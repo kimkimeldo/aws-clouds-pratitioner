@@ -18,14 +18,4 @@ In this interactive experience, you collect gems and earn points by solving real
 
 
 
-.. note::
 
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
