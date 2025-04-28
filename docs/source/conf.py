@@ -4,7 +4,7 @@
 
 project = 'CC 6L'
 copyright = '2025, BSIT3'
-author = 'Eldo kimverlie'
+author = 'Eldo kimverlie' Espinosa Luwela, Chichano Darnel dave, Pampanga Mayvill joy
 
 release = '0.1'
 version = '0.1.0'
