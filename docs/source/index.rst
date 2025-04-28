@@ -1,11 +1,12 @@
-Welcome to Clouds Practitioner!
+Web App Development: React & Node.js
 ===================================
 
-Overview
+group 6
+*Kimverlie eldo*
+*Luwela Espinosa*
+*Chicano Darnel Dave*
+*Pampanga mayvill joy*
 
-
-AWS Cloud Quest is the first and only role-playing game that helps you build on-demand AWS Cloud skills.
-Collect gems and earn points as you build real solutions inside a live AWS environment.
 
 
 .. note::
