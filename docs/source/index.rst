@@ -57,4 +57,12 @@ Create an account on Amazon!
 
 .. image:: picture/amazonaccount.png  
    :align: center  
-   :width: 700px  
+   :width: 700px 
+
+- New page appears, enter six-digit OTP in the space provided
+- Select Create your Amazon account
+
+.. image:: picture/amazonvirify.png  
+   :align: center  
+   :width: 700px 
+
