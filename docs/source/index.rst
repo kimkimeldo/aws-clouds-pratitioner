@@ -112,13 +112,14 @@ Steps to sign in to AWS Training and Certification
    :align: center  
    :width: 700px
 
+
 Getting acquainted with AWS Cloud Quest
 ==============================================
 **Overview**
+
 In this step, you will register for AWS Cloud Quest and become familiar with its interface. You will also create a profile for your Cloud Citizen character.
 
 **Content**
 
-Register and explore the system
-
-Create your Cloud Citizen profile
+- Register and check the system
+- Build profile
