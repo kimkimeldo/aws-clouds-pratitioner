@@ -1,25 +1,25 @@
-# Welcome to AWS Cloud Practitioner: An Interactive Role-Playing Experience  
+Welcome to AWS Cloud Practitioner: An Interactive Role-Playing Experience  
+==========================================================================
 *Group 6*
 
-### Members:
-- **Kimverlie Eldo**  
-- **Luwela Espinosa**  
-- **Chicano Darnel Dave**  
-- **Pampanga Mayvill Joy**  
+Members:
+- *Kimverlie Eldo*
+- *Luwela Espinosa*
+- *Chicano Darnel Dave*
+- *Pampanga Mayvill Joy*
 
 ---
-
-## **Overview**
+**Overview**
 
 **AWS Cloud Quest** is the first and only role-playing game designed to help you build in-demand AWS Cloud skills through hands-on learning.
 
 In this interactive experience, players collect gems and earn points by solving real-world challenges and building actual cloud solutions within a live AWS environment.
 
-> _Note: This project is under active development._
+Note: This project is under active development._
 
 ---
 
-## **Introduction**
+**Introduction**
 
 Welcome to **AWS Cloud Practitioner: An Interactive Role-Playing Experience!**
 
@@ -32,11 +32,11 @@ Step into the world of cloud computing with AWS Cloud Practitioner — an engagi
 
 Whether you're a beginner or brushing up on your cloud skills, this journey will guide you through essential AWS services, foundational concepts, and best practices — all in a fun, hands-on format.
 
-> Get ready to learn, explore, and level up your cloud expertise!
+Get ready to learn, explore, and level up your cloud expertise!
 
 ---
 
-## 📚 Table of Contents
+**📚 Table of Contents**
 
 ```rst
 .. toctree::
