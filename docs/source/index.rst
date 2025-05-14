@@ -1,42 +1,52 @@
-Welcome to AWS CLOUD PRACTITIONER An Interactive Role Playing  
-===================================
+# Welcome to AWS Cloud Practitioner: An Interactive Role-Playing Experience  
+*Group 6*
 
-group 6
+### Members:
+- **Kimverlie Eldo**  
+- **Luwela Espinosa**  
+- **Chicano Darnel Dave**  
+- **Pampanga Mayvill Joy**  
 
+---
 
-*Kimverlie eldo*
-*Luwela Espinosa*
-*Chicano Darnel Dave*
-*Pampanga mayvill joy*
+## **Overview**
 
+**AWS Cloud Quest** is the first and only role-playing game designed to help you build in-demand AWS Cloud skills through hands-on learning.
 
-**Overview**
-=============
+In this interactive experience, players collect gems and earn points by solving real-world challenges and building actual cloud solutions within a live AWS environment.
 
-AWS Cloud Quest is the first and only role-playing game designed to help you build in-demand AWS Cloud skills through hands-on learning.
-In this interactive experience, you collect gems and earn points by solving real-world challenges and building actual cloud solutions within a live AWS environment.
+> _Note: This project is under active development._
 
+---
 
-.. note::
+## **Introduction**
 
-   This project is under active development.
+Welcome to **AWS Cloud Practitioner: An Interactive Role-Playing Experience!**
 
-Introduction
---------
+Step into the world of cloud computing with AWS Cloud Practitioner — an engaging, gamified platform designed to help learners explore and understand the basics of cloud technology. In this immersive environment, you will:
 
-Welcome to AWS Cloud Practitioner: An Interactive Role-Playing Experience!
+- Take on real-world cloud challenges
+- Design and implement cloud solutions
+- Work directly in a live AWS environment
+- Earn points and collect gems as you progress
 
-Step into the world of cloud computing with AWS Cloud Practitioner, an engaging and interactive role-playing game designed to build your foundational AWS skills.
-In this immersive environment, you’ll take on real-world challenges, design cloud solutions, and work directly within a live AWS environment — all while earning points, collecting gems, and advancing your knowledge.
-Whether you're new to cloud computing or looking to strengthen your skills, this adventure will guide you through essential AWS services, best practices, and core concepts in a fun, hands-on way.
+Whether you're a beginner or brushing up on your cloud skills, this journey will guide you through essential AWS services, foundational concepts, and best practices — all in a fun, hands-on format.
 
-Get ready to learn, explore, and level up your cloud expertise!
+> Get ready to learn, explore, and level up your cloud expertise!
 
+---
 
+## 📚 Table of Contents
 
-
+```rst
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-
-
-
+   getting-started
+   gameplay-guide
+   aws-concepts
+   quests-and-challenges
+   scoring-system
+   team-contributions
+   references
