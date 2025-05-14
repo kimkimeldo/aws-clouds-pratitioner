@@ -15,6 +15,11 @@ Members:
 
 In this interactive experience, players collect gems and earn points by solving real-world challenges and building actual cloud solutions within a live AWS environment.
 
+.. image:: pictures/amazon.jpeg
+   :align: center
+   :width: 700px
+
+
 Note: This project is under active development._
 
 ---
