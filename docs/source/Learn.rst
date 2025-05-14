@@ -61,6 +61,6 @@ LEARN
 - Read step 4 of Diagram Steps
 - Select Plan to go to Plan
 
-.. image:: picture/0007-learn.png 
+.. image:: picture/0008-learn.png 
    :align: center  
    :width: 700px
