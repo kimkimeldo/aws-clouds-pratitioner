@@ -47,3 +47,8 @@ Create an account on Amazon!
 .. image:: picture/amazonIn.png  
    :align: center  
    :width: 700px  
+- Enter User name
+- Enter Mobile number and Email address to connect
+- Enter Password
+- Enter Re-enter password
+- Next, select Verify
