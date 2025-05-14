@@ -188,6 +188,6 @@ After logging in, the AWS Training and Certification interface appears with the 
 
 10. Done, the city interface has appeared.
 
-.. image:: picture/Done.png  
+.. image:: picture/done.png  
    :align: center  
    :width: 700px
