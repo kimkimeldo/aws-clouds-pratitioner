@@ -8,7 +8,7 @@ Members:
 - *Chicano Darnel Dave*
 - *Pampanga Mayvill Joy*
 
----
+
 **Overview**
 
 **AWS Cloud Quest** is the first and only role-playing game designed to help you build in-demand AWS Cloud skills through hands-on learning.
@@ -22,7 +22,7 @@ In this interactive experience, players collect gems and earn points by solving 
 
 Note: This project is under active development._
 
----
+
 
 **Introduction**
 
@@ -48,10 +48,10 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   - getting-started
-   - gameplay-guide
-   - aws-concepts
-   - quests-and-challenges
-   - scoring-system
-   - team-contributions
-   - references
+   getting-started
+   gameplay-guide
+   aws-concepts
+   quests-and-challenges
+   scoring-system
+   team-contributions
+   references
