@@ -19,7 +19,7 @@ Members:
    :align: center  
    :width: 700px  
 
-Preparation Steps
+Preparation Steps!
 ==========================================================================
 
 To participate in **AWS Cloud Quest: Cloud Practitioner**, we need to prepare the following:
@@ -37,3 +37,10 @@ To participate in **AWS Cloud Quest: Cloud Practitioner**, we need to prepare th
   - **Browser:** Use the latest version of Firefox, Microsoft Edge, or Google Chrome
     - *Browsers must support HTML5, WebGL 1.0/2.0, and WASM*
   - **Note:** Mobile browsers are not supported.
+
+Create an account on Amazon!
+==========================================================================
+
+.. image:: picture/Screenshot 2025-05-14 200036.png  
+   :align: center  
+   :width: 700px  
