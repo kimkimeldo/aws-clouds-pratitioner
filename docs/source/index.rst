@@ -67,6 +67,7 @@ Create an account on Amazon!
    :width: 700px 
 
 **Note**
+================
 Before creating an Amazon account, ensure that you have a valid mobile number ready. A mobile number is required to successfully create a new account on Amazon.in, while providing an email address and location is optional.
 
 You can sign in to your account at any time by clicking "Your Account" at the top of any Amazon page. Simply enter the same mobile number or email address and password you used during registration to access your account.
