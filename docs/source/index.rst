@@ -44,3 +44,6 @@ Create an account on Amazon!
 .. image:: picture/Product.png  
    :align: center  
    :width: 700px  
+.. image:: picture/amazonIn.png  
+   :align: center  
+   :width: 700px  
