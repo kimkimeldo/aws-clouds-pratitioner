@@ -71,3 +71,25 @@ Create an account on Amazon!
 Before creating an Amazon account, ensure that you have a valid mobile number ready. A mobile number is required to successfully create a new account on Amazon.in, while providing an email address and location is optional.
 
 You can sign in to your account at any time by clicking "Your Account" at the top of any Amazon page. Simply enter the same mobile number or email address and password you used during registration to access your account.
+
+Login to Amazon account
+================================
+There are 4 options for logging into AWS Training and Certification:
+
+- Login with Amazon
+- AWS Partner
+- Organization SSO
+- Amazon Employee
+
+.. image:: picture/amazonnotes.png  
+   :align: center  
+   :width: 700px 
+
+Steps to sign in to AWS Training and Certification
+
+- Go to AWS Skill Builder
+- Select SIGN IN TO AWS SKILL BUILDER
+
+.. image:: picture/amazonsignIn.png  
+   :align: center  
+   :width: 700px
