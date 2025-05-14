@@ -95,3 +95,21 @@ Steps to sign in to AWS Training and Certification
    :width: 700px
 
 3. The AWS Training and Certification login interface appears, select Login with Amazon
+4. Amazon login page appears:
+- Enter Email or mobile phone number
+- Enter Password
+- Then, select Sign-in
+
+.. image:: picture/amazonIn.png  
+   :align: center  
+   :width: 700px
+5. After logging in, the AWS Training and Certification interface appears.
+
+.. image:: picture/amazonlearning.png  
+   :align: center  
+   :width: 700px
+.. image:: picture/allowsigning.png  
+   :align: center  
+   :width: 700px
+
+
