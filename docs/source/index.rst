@@ -41,6 +41,6 @@ To participate in **AWS Cloud Quest: Cloud Practitioner**, we need to prepare th
 Create an account on Amazon!
 ==========================================================================
 
-.. image:: picture/Screenshot 2025-05-14 200036.png  
+.. image:: picture/amazon product.png  
    :align: center  
    :width: 700px  
