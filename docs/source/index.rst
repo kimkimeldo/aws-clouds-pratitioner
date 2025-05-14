@@ -87,9 +87,11 @@ There are 4 options for logging into AWS Training and Certification:
 
 Steps to sign in to AWS Training and Certification
 
-- Go to AWS Skill Builder
-- Select SIGN IN TO AWS SKILL BUILDER
+1. Go to AWS Skill Builder
+2. Select SIGN IN TO AWS SKILL BUILDER
 
 .. image:: picture/amazonsignIn.png  
    :align: center  
    :width: 700px
+
+3. The AWS Training and Certification login interface appears, select Login with Amazon
