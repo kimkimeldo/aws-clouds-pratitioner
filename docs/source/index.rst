@@ -41,17 +41,17 @@ Get ready to learn, explore, and level up your cloud expertise!
 
 ---
 
-**📚 Table of Contents**
+Contents
+--------
 
-```rst
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    - getting-started
-   -  gameplay-guide
+   - gameplay-guide
    - aws-concepts
-   -  quests-and-challenges
+   - quests-and-challenges
    - scoring-system
    - team-contributions
    - references
