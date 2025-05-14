@@ -43,10 +43,10 @@ Get ready to learn, explore, and level up your cloud expertise!
    :maxdepth: 2
    :caption: Contents:
 
-   getting-started
-   gameplay-guide
-   aws-concepts
-   quests-and-challenges
-   scoring-system
-   team-contributions
-   references
+   - getting-started
+   -  gameplay-guide
+   - aws-concepts
+   -  quests-and-challenges
+   - scoring-system
+   - team-contributions
+   - references
