@@ -422,3 +422,107 @@ PLAN
    :align: center  
    :width: 700px
 
+PRACTICE
+==================================================
+
+.. image:: picture/0001-plan.png 
+   :align: center  
+   :width: 700px
+
+In the Practice interface
+Read step 1 of Cloud Computing Essentials
+Read CONCEPT
+Select START LAB
+Select the arrow to the right to see the next step
+
+.. image:: picture/0001-plan.png 
+   :align: center  
+   :width: 700px
+
+1.  In the Practice interface
+- Read step 1 of Cloud Computing Essentials
+- Read CONCEPT
+- Select START LAB
+- Select the arrow to the right to see the next step
+
+2. In the Practice interface
+
+- Read step 2 of Cloud Computing Essentials
+- Select Open AWS Console
+
+3. In the Practice interface
+
+- Select Lab Files
+- Download labcode.zip to your device
+- After downloading, extracting files will be as shown
+
+4. In the Practice interface
+
+- Read step 3 of Cloud Copunting Essentials
+- Select the arrow to the right to see the next steps
+
+5. In the Practice* interface
+
+- Read step 4 of Cloud Computing Essentials
+- Read CONCEPT
+- Select the arrow to the right to see the next steps
+
+6. In the Amazon S3 interface
+- Find S3
+- Select S3
+
+7. In the Practice interface
+
+- Read step 5 of Cloud Computing Essentials
+- Read CONCEPT
+- Select the arrow to the right to see the next steps 
+
+8. In the Amazon S3 interface
+
+- Select Buckets
+- Select Create bucket
+
+9. In the Practice interface
+
+- Read step 6 of Cloud Computing Essentials
+- Read CONCEPT
+- Select the arrow to the right to see the next steps
+
+10. In the Create bucket interface
+
+- Bucket name, enter lab-unique-name-1
+- AWS Region, enter US East (N. Virginia) us-east-1
+
+
+11.In the Practice interface
+
+- Read step 7 of Cloud Computing Essentials
+- Select the arrow to the right to see the next steps
+
+12. In Object Ownership
+
+- Select ACLs enabled
+- Select Object writer
+
+13. In the Practice interface
+
+- Read step 8 of Cloud Computing Essentials
+- Read CONCEPT
+- Select the arrow to the right to see the next steps
+
+14. In the Amazon S3 interface
+
+- Uncheck Block all public access
+- Select I acknowledge…
+
+15. In the Practice interface
+- Read step 9 of Cloud Computing Essentials
+- Read CONCEPT
+- Select the arrow to the right to see the next steps
+
+16. In the Amazon S3 interface
+- In the Default encryption section, select Enable
+- Select **Amazon S3-managed keys (SSE-S3)
+-Select Create bucket
+
+
