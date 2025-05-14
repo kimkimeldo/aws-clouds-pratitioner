@@ -246,7 +246,7 @@ Select **EYE COLOR**
 7. The Clothing section
 
 - Select Choose your style!
-- Select *TOPS
+- Select TOPS
 - Select BOTTOMS
 - Select SHOES
 - Select HATS
