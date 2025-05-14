@@ -19,7 +19,8 @@ Members:
    :align: center  
    :width: 700px  
 
-**Preparation Steps**
+Preparation Steps
+==========================================================================
 
 To participate in **AWS Cloud Quest: Cloud Practitioner**, we need to prepare the following:
 
