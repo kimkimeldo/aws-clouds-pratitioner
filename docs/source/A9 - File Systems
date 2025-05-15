@@ -172,6 +172,179 @@ See step 5 of **Diagram Steps**
    :width: 700px
 
 
+3.In the **AWS Console interface**
+
+. Find **EC2**
+. Select **EC2
+
+
+.. image:: pictures/ec2.png
+   :align: center
+   :width: 700px
+
+4.In the **Practice** interface
+
+. Read step 3 of **File Systems in the Cloud**
+. Read **CONCEPT**
+. Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/concept.png
+   :align: center
+   :width: 700px
+
+
+5.In the **EC2** interface
+
+. Select **Instances**
+. View instances
+
+
+.. image:: pictures/instances.png
+   :align: center
+   :width: 700px
+
+
+6.In the **Practice** interface
+
+. Read step 5 of **File Systems in the Cloud**
+. Read **CONCEPT**
+. Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/concept_2.png
+   :align: center
+   :width: 700px
+
+
+7.In the **EC2** interface
+
+. View the Availability Zone
+. Select Security Groups
+
+
+.. image:: pictures/Availability_Zone.png
+   :align: center
+   :width: 700px
+
+8.In the **Practice** interface
+
+. Read step 6 of **File Systems in the Cloud**
+. Read **CONCEPT**
+. Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/ concept_3.png
+   :align: center
+   :width: 700px
+
+9.In the **Security Groups** interface
+
+. View **Web Server Security Group**
+. Select **Create security group**
+
+
+.. image:: pictures/Security_Groups.png
+   :align: center
+   :width: 700px
+
+10.In the **Praccticce interface**
+
+. Read step 7 of **File Systems in the Cloud**
+. Read **CONCEPT**
+. Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/Pracctice.png
+   :align: center
+   :width: 700px
+
+11.In the **Create security** group interface
+
+. **Security group name**, enter PetModels-EFS-1-SG
+. **Description**, enter Restrict access to webservers only
+. Select **VPC PetModels**
+. Select **Add rule**
+
+
+.. image:: pictures/security.png
+   :align: center
+   :width: 700px
+
+12.In the **Practice interface**
+
+. Read step 8 of **File Systems in the Cloud**
+. Read **CONCEPT**
+. Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/practice_1.png
+   :align: center
+   :width: 700px
+
+13.In the **Create security group** interface
+
+. In **Inbound rules**, select **NFS**
+. Select **Security group**, select **webserver**
+
+
+.. image:: pictures/nfs.png
+   :align: center
+   :width: 700px
+
+14.In the **Practice interface**
+
+. Read step 9 of **File Systems in the Cloud**
+. Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/practice_2.png
+   :align: center
+   :width: 700px
+
+15.In the **Create security group interface**
+
+. Select **Create security group**
+
+
+
+.. image:: pictures/security_group.png
+   :align: center
+   :width: 700px
+
+16.In the **Practice interface**
+
+. Read step 10 of **File Systems in the Cloud**
+. Read **CONCEP**T
+. Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/practice_3.png
+   :align: center
+   :width: 700px
+
+17.In the **Security group** interface
+
+. View **Security group name** just created
+
+
+.. image:: pictures/Security_group1.png
+   :align: center
+   :width: 700px
+
+18.In the **Practice interface**
+
+. Read step 11 of **File Systems in the Cloud**
+. Read **CONCEPT**
+. Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/File Systems in the Cloud.png
+   :align: center
+   :width: 700px
+
+
+
 
 
 
