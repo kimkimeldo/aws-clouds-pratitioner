@@ -1,4 +1,4 @@
-                                                 ** LEARN **
+** LEARN **
 
 .. image:: picture/A2_Learn.png  
    :align: center  
