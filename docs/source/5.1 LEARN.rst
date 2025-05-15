@@ -23,6 +23,7 @@
    :width: 700px
 
 4. Watch **VIDEO CONCEPTS**
+
 - After watching the video **Amazon EC2 Overview**
 - Select **Amazon EC2 Storage Networking**
 - After watching the video **Amazon EC2 Storage Networking**, select **X** to exit 
@@ -50,6 +51,7 @@
    :width: 700px
    
 8. Watch **VIDEO CONCEPTS**, then select **X**
+
 - After watching the video **Amazon EBS Overview**, select **Amazon EBS Features**
 - After watching the video **Amazon EBS Features**, select **Amazon Benefits**
 - After watching the **Amazon Benefits** video, select **Amazon EBS Volume Types**
