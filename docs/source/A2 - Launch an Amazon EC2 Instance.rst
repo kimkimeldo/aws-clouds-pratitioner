@@ -1,4 +1,4 @@
-A2 - Launch an Amazon EC2 Instance
+**A2 - Launch an Amazon EC2 Instance**
 =======================================================================
 
 Lab #2 of AWS Cloud Quest: Cloud Practitioner is Launch one EC2 instance
@@ -7,7 +7,7 @@ Lab #2 of AWS Cloud Quest: Cloud Practitioner is Launch one EC2 instance
    :align: center  
    :width: 700px
 
-1. Go to ASSIGNMENTS, under Cloud First Steps, select ROUTE AND GO
+1. Go to **ASSIGNMENTS**, under Cloud First Steps, select **ROUTE AND GO**
 
 .. image:: picture/0001-amazonec2.png  
    :align: center  
@@ -25,13 +25,13 @@ Lab #2 of AWS Cloud Quest: Cloud Practitioner is Launch one EC2 instance
    :align: center  
    :width: 700px
 
-4. Select ACCEPT
+4. Select **ACCEPT**
 
 .. image:: picture/0004-amazonec2.png  
    :align: center  
    :width: 700px
 
-5. Select GO TO SOLUTION CENTER to move to the next steps of Assignment
+5. Select **GO TO SOLUTION CENTER** to move to the next steps of Assignment
 
 .. image:: picture/0005-amazonec2.png  
    :align: center  
