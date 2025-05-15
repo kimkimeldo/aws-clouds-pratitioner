@@ -16,6 +16,6 @@
 - Read **DIY Goals**
 - Prepare for **Practice** step
 
-.. image:: picture/000222-learn.png  
+.. image:: picture/000222-plan.png  
    :align: center  
    :width: 700px
