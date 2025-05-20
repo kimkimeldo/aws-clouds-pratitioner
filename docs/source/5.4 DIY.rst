@@ -1,5 +1,8 @@
 **DIY**
 
+.. image:: picture/A2_DIY.png  
+       :align: center  
+       :width: 700px  
 1. Select DIY to make  
 
     .. image:: picture/0001111-diy.png  
