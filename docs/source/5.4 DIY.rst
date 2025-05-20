@@ -1,0 +1,154 @@
+**DIY**
+
+1. Select DIY to make  
+
+    .. image:: picture/0001111-diy.png  
+       :align: center  
+       :width: 700px  
+
+2. In the Plan interface  
+    - Read **DIY ACTIVITIES**  
+    - Read **SOLUTION VALIDATION METHOD**  
+    - Select **Open AWS Console**  
+
+    .. image:: picture/0001112-diy.png  
+       :align: center  
+       :width: 700px  
+
+3. In AWS Console, find and select **EC2**  
+
+    .. image:: picture/0001113-diy.png  
+       :align: center  
+       :width: 700px  
+
+4. Select **Launch instance**  
+
+    .. image:: picture/0001114-diy.png  
+       :align: center  
+       :width: 700px  
+
+5. In **Choose an Amazon Machine Image (AMI)**  
+    - Select `Amazon Linux 2 AMI (HVM) - Kernel 5.10, SSD Volume Type`  
+    - Click **Select**  
+
+    .. image:: picture/0001115-diy.png  
+       :align: center  
+       :width: 700px  
+
+6. In **Choose an Instance Type**  
+    - Select `t2.micro`  
+    - Then select **Next: Configure Instance Details**  
+
+    .. image:: picture/0001116-diy.png  
+       :align: center  
+       :width: 700px  
+
+7. In **Configure Instance Details**  
+    - Select a **VPC**  
+    - Choose a **Subnet** different from the subnet of Practice  
+
+    .. image:: picture/0001117-diy.png  
+       :align: center  
+       :width: 700px  
+
+8. In **Advanced Details**  
+    - Select **As file**  
+    - Click **Select file** and upload the file `user-data`  
+    - Click **Next: Add Storage**  
+
+    .. image:: picture/0001118-diy.png  
+       :align: center  
+       :width: 700px  
+
+9. In **Add Storage**, click **Next: Add Tags**  
+
+    .. image:: picture/0001119-diy.png  
+       :align: center  
+       :width: 700px  
+
+10. In **Add Tags**, click **Next: Configure Security Group**  
+
+  
+
+11. In **Configure Security Group**, create a new group  
+    - **Security group name**: `Security-Group-Lab-2`  
+    - **Description**: `HTTP Group Lab 2`  
+    - **Rule**: Select `HTTP`  
+    - Click **Review and Launch**  
+
+    .. image:: picture/0001121-diy.png  
+       :align: center  
+       :width: 700px  
+
+12. In **Review Instance Launch**, double check then select **Launch**  
+
+    .. image:: picture/0001122-diy.png  
+       :align: center  
+       :width: 700px  
+
+13. In **Select a key pair**  
+    - Choose **Proceed without a key pair**  
+    - Check **I acknowledge…**  
+    - Click **Launch Instances**  
+
+    .. image:: picture/0001123-diy.png  
+       :align: center  
+       :width: 700px  
+
+14. Select **View Instances**  
+
+    .. image:: picture/0001124-diy.png  
+       :align: center  
+       :width: 700px  
+
+15. Result of creating 2 Amazon EC2 Instances  
+
+    .. image:: picture/0001125-diy.png  
+       :align: center  
+       :width: 700px  
+
+16. After creating 2 Amazon EC2 Instances  
+    - Copy both **Instance ID**  
+    - Paste **Instance ID** in `AZ1`  
+    - Paste **Instance ID** in `AZ2`  
+    - Select **VALIDATE**  
+
+    .. image:: picture/0001126-diy.png  
+       :align: center  
+       :width: 700px  
+
+17. After selecting **VALIDATE**, if validation message contains `Success! ... is complete`  
+
+    .. image:: picture/0001127-diy.png  
+       :align: center  
+       :width: 700px  
+
+18. Select **EXIT**  
+
+    .. image:: picture/0001128-diy.png  
+       :align: center  
+       :width: 700px  
+
+19. In **ASSIGNMENT**, select **COLLECT**  
+
+    .. image:: picture/0001129-diy.png  
+       :align: center  
+       :width: 700px  
+
+20. Select **NEXT**  
+
+    .. image:: picture/0001130-diy.png  
+       :align: center  
+       :width: 700px  
+
+21. Select **COLLECT**  
+
+    .. image:: picture/0001131-diy.png  
+       :align: center  
+       :width: 700px  
+
+22. 🎉 Get rewarded!  
+
+    .. image:: picture/0001132-diy.png  
+       :align: center  
+       :width: 700px  
