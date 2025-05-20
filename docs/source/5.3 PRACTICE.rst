@@ -32,16 +32,16 @@
    :width: 700px
 5. Read step 3 of **Cloud First Steps**
 
--Select the arrow to the right to view and take the next step
+- Select the arrow to the right to view and take the next step
 
 .. image:: picture/00055-practice.png  
    :align: center  
    :width: 700px
 6. Go to **AWS Console** page
 
--Select **EC2 Dashboard**
--Select **Launch instance**
--Continue to select *Launch instance**
+- Select **EC2 Dashboard**
+- Select **Launch instance**
+- Continue to select **Launch instance**
 
 .. image:: picture/00066-practice.png  
    :align: center  
@@ -53,7 +53,7 @@
    :width: 700px
 8. Go to **AWS Console** page
 
--Select **Amazon Linux 2 AMI**
+- Select **Amazon Linux 2 AMI**
 
 .. image:: picture/00088-practice.png  
    :align: center  
@@ -65,15 +65,15 @@
    :width: 700px
 10. Go to **AWS Console** page
 
--Choose an **Instance Type**, select **t2.micro**
--Select **Next: Configure Instance Details**
+- Choose an **Instance Type**, select **t2.micro**
+- Select **Next: Configure Instance Details**
 
 .. image:: picture/000100-practice.png  
    :align: center  
    :width: 700px
 11. Read step 6 of **Cloud First Steps**
 
--Select Lab Files
+- Select Lab Files
 
 .. image:: picture/000110-practice.png  
    :align: center  
@@ -90,8 +90,8 @@
    :width: 700px
 14. Go to **AWS Console**
 
--Select VPC
--Select Subnet
+- Select VPC
+- Select Subnet
 
 .. image:: picture/000140-practice.png  
    :align: center  
