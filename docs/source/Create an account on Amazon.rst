@@ -9,13 +9,13 @@ Steps to create an Amazon account
 
 1. Open the app or go to the official website Amazon
 
-.. image:: pictures/image1.png
+.. image:: picture/image1.png
    :align: center
    :width: 7000px
 
 2. Select **Create a new Amazon account**
 
-.. image:: pictures/image2.png
+.. image:: picture/image2.png
    :align: center
    :width: 1000px
 
@@ -25,14 +25,14 @@ Steps to create an Amazon account
 6. Enter Re-enter password
 7. Next, select Verify
 
-.. image:: pictures/image3.png
+.. image:: picture/image3.png
    :align: center
    :width: 1000px
 
 8. New page appears, enter six-digit OTP in the space provided
 9. Select Create your Amazon account
 
-.. image:: pictures/image4.png
+.. image:: picture/image4.png
    :align: center
    :width: 1000px
 
