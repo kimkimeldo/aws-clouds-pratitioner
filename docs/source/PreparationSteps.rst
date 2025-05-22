@@ -18,3 +18,10 @@ To participate in **AWS Cloud Quest: Cloud Practitioner**, we need to prepare th
 - **Browsers must support HTML5, WebGL 1.0/2.0, and WASM**
 - **Note:** Mobile browsers are not supported.
 
+.. toctree::
+   :maxdepth: 1
+   
+
+   Create an account on Amazon
+   login_to_amazon_account
+
