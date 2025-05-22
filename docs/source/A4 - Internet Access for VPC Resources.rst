@@ -15,7 +15,8 @@ Perform
 -------
 
 .. admonition:: Info
-    After receiving the Assignment 3 award, continue to perform the following steps to perform Assignment 4.
+  After receiving the Assignment 3 award, continue to perform the following steps to perform Assignment 4.
+
 
 1. In **ASSIGNMENT**, under **Networking Concepts**, select **ROUTE AND GO**
 
