@@ -15,8 +15,8 @@ Lab #4 of AWS Cloud Quest: Cloud Practitioner is **Internet Access for VPC Resou
 
 
 .. admonition:: Info
-  After receiving the Assignment 3 award, continue to perform the following steps to perform Assignment 4.
 
+  After receiving the Assignment 3 award, continue to perform the following steps to perform Assignment 4.
 
 1. In **ASSIGNMENT**, 
 
