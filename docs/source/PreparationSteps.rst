@@ -8,6 +8,7 @@ To participate in **AWS Cloud Quest: Cloud Practitioner**, we need to prepare th
 - Log in to [AWS Cloud Quest: Cloud Practitioner](https://aws.amazon.com/training/digital/aws-cloud-quest/) using your Amazon account.
 
 **System Requirements**
+
 - **Operating System:** 64-bit OS (Windows, macOS, or Linux)
 - **Storage:** At least 1GB of available disk space
 - **Network:** Stable broadband internet connection
