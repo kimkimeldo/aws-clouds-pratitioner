@@ -23,22 +23,22 @@ Lab #4 of AWS Cloud Quest: Cloud Practitioner is **Internet Access for VPC Resou
 - **Networking Concepts**
 - select **ROUTE AND GO**
 
-    .. image:: picture/0001401-a4.png
+    .. image:: picture/0001400-a4.png
        :align: center
        :width: 700px
 2. View **Rewards** and select **NEXT**
-    .. image:: picture/0001402-a4.png
+    .. image:: picture/0001401-a4.png
        :align: center
        :width: 700px
 
 3. View **Solution Annotations** and select **ACCEPT**
 
-    .. image:: picture/0001403-a4.png
+    .. image:: picture/0001402-a4.png
        :align: center
        :width: 700px
 
 4. Select **GO TO SOLUTION CENTER** to proceed
 
-    .. image:: picture/0001404-a4.png
+    .. image:: picture/0001403-a4.png
        :align: center
        :width: 700px
