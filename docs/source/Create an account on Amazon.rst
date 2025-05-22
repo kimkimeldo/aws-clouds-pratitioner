@@ -15,9 +15,9 @@ Steps to create an Amazon account
 
 2. Select **Create a new Amazon account**
 
-.. image:: pictures/image1.png
+.. image:: pictures/image2.png
    :align: center
-   :width: 7000px
+   :width: 1000px
 
 3. Enter User name
 4. Enter Mobile number and Email address to connect
@@ -25,16 +25,16 @@ Steps to create an Amazon account
 6. Enter Re-enter password
 7. Next, select Verify
 
-.. image:: pictures/image2.png
+.. image:: pictures/image3.png
    :align: center
-   :width: 7000px
+   :width: 1000px
 
 8. New page appears, enter six-digit OTP in the space provided
 9. Select Create your Amazon account
 
-.. image:: pictures/image3.png
+.. image:: pictures/image4.png
    :align: center
-   :width: 7000px
+   :width: 1000px
 
 
 Note: Before creating an account, make sure you are using a valid mobile number because adding a mobile number is required to create a new account on Amazon.in, while adding a location email only is optional.
